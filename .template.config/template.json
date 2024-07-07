@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Sebastian Whiffen",
+  "classifications": ["Godot", "BoilerPlate"],
+  "identity": "GodotTemplate.BoilerPlate",
+  "name": "Godot BoilerPlate",
+  "shortName": "godottemplate",
+  "sourceName": "GodotTemplate",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
